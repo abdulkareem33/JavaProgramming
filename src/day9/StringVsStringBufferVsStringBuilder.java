@@ -24,6 +24,10 @@ public class StringVsStringBufferVsStringBuilder {
 		
 		System.out.println("Hi iam Developer");
 		System.out.println("Developed code is working fine");
+		System.out.println("Hi iam Tester");
+		System.out.println("My Testing code is working fine");
+		
+
 		
 	}
 
