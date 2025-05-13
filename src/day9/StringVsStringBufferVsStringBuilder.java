@@ -22,8 +22,12 @@ public class StringVsStringBufferVsStringBuilder {
 		st.append(" to java");
 		System.out.println(st); //mutable can change original value of s
 		
+		System.out.println("Hi iam Developer");
+		System.out.println("Developed code is working fine");
 		System.out.println("Hi iam Tester");
 		System.out.println("My Testing code is working fine");
+		
+
 		
 	}
 
